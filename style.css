@@ -63,6 +63,7 @@ nav ul li{
 #myProgressBar{
     width: 80vw;
     text-align: center;
+    cursor: pointer;
 }
 
 .songItem{
@@ -91,6 +92,7 @@ nav ul li{
 .songInfo{
     position: absolute;
     left: 7vw;
+    font-family: 'Varela Round', sans-serif;
 }
 .songInfo img{
     opacity: 0;
